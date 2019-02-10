@@ -1,3 +1,3 @@
 # RstudioRepo
-Test RStudio connection to git
-This is line from RStudio!
+Test RStudio connection..
+This is line from RStudio! to git
